@@ -1,0 +1,18 @@
+.{
+background-color: darkblue;
+}
+main{
+background-color: aliceblue;
+color: dodgerblue;
+}
+
+.principal{
+
+}
+
+
+
+.principal-imagem{
+        /*Dimensoes da imagem: largura e altura 100 pixels*/
+        width: 100;
+}
