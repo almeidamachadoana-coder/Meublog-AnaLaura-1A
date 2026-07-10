@@ -1,18 +1,12 @@
-.{
-background-color: darkblue;
-}
-main{
-background-color: aliceblue;
-color: dodgerblue;
+.cabecalho {
+    background-color: lightpink;
+color: black;
+text-align: center;
+margin: 0 auto;
+max-width: 800px;
 }
 
 .principal{
-
-}
-
-
-
-.principal-imagem{
-        /*Dimensoes da imagem: largura e altura 100 pixels*/
-        width: 100;
+    background-color: pink (248, 194, 255);
+    color: black;
 }
