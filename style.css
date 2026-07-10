@@ -1,12 +1,17 @@
 .cabecalho {
-    background-color: lightpink;
-color: black;
-text-align: center;
-margin: 0 auto;
-max-width: 800px;
+        background-color: lightpink;
+        color: black;
+        text-align: center;
+        margin: 0 auto;
+        max-width: 800px;
 }
 
-.principal{
-    background-color: pink (248, 194, 255);
-    color: black;
+.principal {
+        background-color: pink (248, 194, 255);
+        color: black;
+}
+
+.principal-imagem{
+        width: 200px;
+        height: 200px;
 }
